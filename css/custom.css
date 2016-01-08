@@ -1,0 +1,58 @@
+.page-header {
+  background-image: url("../images/background-sand.jpg");
+  background-color: #ffffcc;
+  font-weight: bold;
+  padding: 0px;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: steelblue;
+  border: 1px solid black;
+}
+
+.job-title {
+  font-weight: bold;
+  padding-top: 35px;
+  text-align: left;
+}
+
+.name {
+  height: "100px";
+  line-height: "100px";
+  padding-top: 35px;
+}
+
+.header-img {
+}
+
+.work-experience {
+  text-align: justify;
+  border-right: 1px solid black;
+}
+
+.work-experience h3 {
+  text-decoration: underline;
+  color: darkcyan;
+}
+
+.employer-header {
+/*  border-bottom: 2px dotted black; */
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.employment-start-date-header {
+/*  border-bottom: 2px dotted black; */
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.education {
+  text-align: justify;
+}
+
+.education h3 {
+  text-decoration: underline;
+  color: darkcyan;
+}
