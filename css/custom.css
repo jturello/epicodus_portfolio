@@ -22,11 +22,17 @@
 }
 
 .header-img {
+  height: 100%;
+}
+
+.aboutme {
+  font-size: 25px;
+  font-weight:bold;
+  color: darkcyan;  
 }
 
 .work-experience {
   text-align: justify;
-  border-right: 1px solid black;
 }
 
 .work-experience h3 {
@@ -41,7 +47,7 @@
   text-decoration: underline;
 }
 
-.employment-start-date-header {
+.aboutme-sub-subheader {
 /*  border-bottom: 2px dotted black; */
   font-style: italic;
   font-weight: bold;
@@ -50,6 +56,7 @@
 
 .education {
   text-align: justify;
+  border-left: 1px solid black;
 }
 
 .education h3 {
