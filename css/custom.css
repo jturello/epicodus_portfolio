@@ -28,14 +28,14 @@
 .aboutme {
   font-size: 25px;
   font-weight:bold;
-  color: darkcyan;  
+  color: darkcyan;
 }
 
 .work-experience {
   text-align: justify;
 }
 
-.work-experience h3 {
+.aboutme-header h3 {
   text-decoration: underline;
   color: darkcyan;
 }
@@ -57,9 +57,4 @@
 .education {
   text-align: justify;
   border-left: 1px solid black;
-}
-
-.education h3 {
-  text-decoration: underline;
-  color: darkcyan;
 }
